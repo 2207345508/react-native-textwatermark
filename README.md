@@ -7,6 +7,8 @@ npm install react-native-textwatermark
 # Usage
 ```js
 import React, { Component } from 'react';
+import  {WaterMark , getWatermark} from 'react-native-textwatermark'
+
 export default class ExampleComponent extends Component {
   constructor(props, context) {
     super(props, context);
