@@ -1,7 +1,7 @@
 {
-  "name": "WaterMark",
-  "version": "0.0.1",
-  "private": true,
+  "name": "react-native-textwatermark",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
@@ -19,5 +19,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "自定义背景水印",
+  "main": "WaterMark.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2207345508/react-native-textwatermark.git"
+  },
+  "author": "啊龙",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2207345508/react-native-textwatermark/issues"
+  },
+  "homepage": "https://github.com/2207345508/react-native-textwatermark#readme"
 }
